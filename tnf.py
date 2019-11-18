@@ -20,7 +20,7 @@ def post_message(instock):
 		)
 	embed.set_title(title="[ TNF ] -MEN'S 1996 RETRO NUPTSE JACKET",url='https://www.thenorthface.com/shop/mens-1996-retro-nuptse-jacket-nf0a3c8d?variationId=V0W')
 	embed.add_field(name='**Stock:**',value='\n'.join(instock))
-	embed.set_footer(text='@zyx898',icon_url='https://pbs.twimg.com/profile_images/1118878674642714624/lNXTIWNT_400x400.jpg')
+	embed.set_footer(text='dev. by @zyx898',icon_url='https://pbs.twimg.com/profile_images/1118878674642714624/lNXTIWNT_400x400.jpg')
 	embed.set_thumbnail('http://images.thenorthface.com/is/image/TheNorthFace/NF0A3C8D_V0W_hero')
 	hook.send(embed=embed)
 
