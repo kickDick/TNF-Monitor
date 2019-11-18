@@ -1,3 +1,5 @@
 # tnf-monitor
-Monitor The North Face
+Monitor The North Face for restock
+ https://www.thenorthface.com/
+
 <img src='tnf.png'>
