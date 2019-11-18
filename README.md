@@ -1,3 +1,3 @@
 # tnf-monitor
 Monitor The North Face
-<imag src='tnf.png'/>
+<img src='tnf.jpg'>
